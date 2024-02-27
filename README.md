@@ -21,25 +21,25 @@ Missing values in the "Age" column are replaced with the mean value, and missing
 Missing values in the "Age" column are replaced with the mean value based on conditions, such as whether the passenger survived or not.
 
 # Usage
-# Clone the repository:
 
-git clone https://https://github.com/HemantTheCoder/TDP-Basic)
+**Clone the repository:**
 
-# Navigate to the project directory:
+git clone https://https://github.com/HemantTheCoder/TDP-Basic
+
+**Navigate to the project directory:**
 cd TDP-Basic
 
-# Run the preprocessing script:
+**Run the preprocessing script:**
 python missing_data_correction.py
 
 Feel free to use and adapt the code to suit your needs. 
-# Contributions and feedback are encouraged!
-
-~
+**Contributions and feedback are encouraged!**
+~~
 # Dependencies
-Python 3
-pandas
-numpy
-statistics
+    Python 3
+    pandas
+    numpy
+    statistics
 
 # License
 This project is licensed under the MIT License.
